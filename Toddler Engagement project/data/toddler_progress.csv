@@ -1,0 +1,71 @@
+FirstName,LastName,BirthDate,Gender,Activity,ActivityDate,ActivityDuration,ParticipationLevel,TypeOfActivity,EngagementLevel,Points
+Traci,Johnson,2022-03-09,F,Building Blocks,2023-09-28,10,Low,Group,Low,10
+Michael,Kirby,2021-10-28,M,Building Blocks,2024-03-12,28,Low,Individual,High,1
+Arthur,Love,2020-12-29,M,Story Time,2024-03-23,21,Medium,Individual,High,5
+Traci,Richardson,2021-06-06,F,Story Time,2023-09-16,29,High,Group,Low,1
+Michele,Ortiz,2020-12-29,F,Dance,2023-07-10,29,Medium,Individual,High,7
+Stephanie,Parker,2022-08-11,F,Story Time,2024-05-06,14,Low,Group,Low,3
+Erica,Morgan,2021-10-28,M,Story Time,2023-09-04,5,Low,Individual,Medium,6
+Danielle,Ortiz,2021-11-10,M,Drawing,2023-09-20,9,High,Group,High,9
+Katherine,Rubio,2020-08-05,M,Music,2024-02-18,18,High,Individual,Medium,9
+Michele,Weiss,2020-12-25,M,Story Time,2023-09-16,23,Medium,Individual,Low,6
+Michael,Watts,2023-04-03,F,Story Time,2024-05-13,29,High,Individual,Low,10
+Julia,Jones,2020-12-25,M,Music,2023-09-20,20,Medium,Individual,Low,7
+Katherine,Thomas,2022-09-28,F,Dance,2024-04-18,18,Low,Group,High,10
+Erica,Doyle,2021-08-03,M,Painting,2024-03-23,14,High,Group,Low,1
+Stephanie,Sandoval,2022-05-08,M,Outdoor Play,2023-11-11,21,High,Group,High,10
+Tyler,Nielsen,2020-11-22,F,Music,2023-12-18,26,Medium,Individual,Medium,4
+Tyler,Beck,2020-10-24,M,Music,2024-04-25,19,Low,Individual,Medium,2
+Arthur,Rocha,2020-10-24,F,Dance,2023-08-20,5,Low,Individual,High,3
+Vincent,Sherman,2022-11-24,M,Outdoor Play,2024-01-17,19,High,Group,High,1
+Heather,Thompson,2021-12-20,F,Dance,2023-09-11,11,High,Individual,High,6
+Jason,Love,2021-08-03,M,Dance,2023-07-02,27,Medium,Individual,High,6
+Danielle,Dominguez,2022-10-02,M,Drawing,2023-07-01,8,High,Individual,Medium,6
+Randy,Lewis,2023-04-17,M,Story Time,2024-02-22,21,High,Individual,High,5
+Gary,Myers,2021-06-11,F,Building Blocks,2023-08-30,30,High,Group,High,6
+Heather,Owens,2021-05-20,M,Painting,2024-04-21,9,High,Individual,Low,8
+Anne,Fletcher,2020-09-28,M,Outdoor Play,2023-07-12,29,High,Group,Medium,1
+Katherine,Meyer,2022-05-08,F,Story Time,2023-05-29,16,High,Group,High,9
+Amanda,White,2021-02-06,M,Building Blocks,2024-04-19,14,High,Individual,Low,5
+Stacie,Diaz,2023-02-04,M,Building Blocks,2023-11-22,27,Low,Individual,High,10
+Douglas,Cooper,2022-04-15,F,Dance,2023-07-10,18,Medium,Group,Low,8
+Joan,Gray,2021-11-10,F,Drawing,2024-02-05,19,Low,Individual,Low,6
+Anthony,Thomas,2020-10-24,M,Dance,2024-02-10,18,Medium,Individual,Low,3
+Katie,Parker,2022-04-20,M,Outdoor Play,2024-03-17,12,Medium,Group,High,2
+Laura,Sherman,2022-03-09,M,Outdoor Play,2024-05-09,18,Low,Individual,Medium,7
+Brandon,Thompson,2023-03-11,M,Painting,2023-08-22,11,Medium,Individual,Medium,3
+Jennifer,Chandler,2020-10-12,M,Story Time,2023-05-27,17,Low,Individual,Medium,10
+Katherine,Johnson,2021-06-19,M,Music,2023-12-18,29,High,Group,Medium,10
+Rebecca,Wong,2023-03-11,M,Music,2023-12-20,10,High,Individual,Low,4
+Kevin,Fleming,2021-12-04,M,Building Blocks,2024-03-15,24,High,Group,Low,9
+Laura,Duncan,2020-09-12,M,Painting,2023-11-29,5,Low,Group,High,5
+Kimberly,Gonzalez,2022-08-28,M,Drawing,2024-05-08,28,High,Group,Low,10
+Gregory,Curtis,2021-06-11,F,Dance,2024-04-30,29,High,Group,High,1
+Traci,Love,2020-07-06,M,Dance,2023-06-08,9,High,Individual,Low,4
+Kevin,Meyer,2022-04-16,F,Outdoor Play,2023-11-01,18,Low,Group,Medium,10
+Charles,Cooper,2020-08-07,M,Building Blocks,2023-12-14,25,Medium,Individual,High,9
+Gary,Villarreal,2020-06-17,F,Building Blocks,2024-03-31,28,Medium,Group,High,8
+Cynthia,Sharp,2022-03-18,M,Music,2024-04-29,10,Low,Individual,High,9
+Misty,Little,2021-08-03,M,Dance,2023-11-08,19,Medium,Group,High,10
+Stephanie,Duncan,2022-06-11,F,Outdoor Play,2024-01-18,22,High,Individual,High,7
+Kevin,Nielsen,2022-11-18,M,Painting,2023-10-19,20,Low,Individual,Medium,7
+Danielle,Owens,2021-03-26,M,Dance,2023-05-21,14,Medium,Individual,Low,6
+Julia,Little,2022-03-18,M,Music,2024-03-10,7,Medium,Individual,High,6
+Jeffrey,Nielsen,2021-06-19,M,Building Blocks,2023-07-14,14,Low,Individual,Low,10
+Julia,Barry,2022-08-28,F,Drawing,2023-12-16,20,Low,Group,Medium,10
+James,Dominguez,2021-02-06,M,Outdoor Play,2024-03-27,19,High,Individual,Low,9
+Traci,Gardner,2020-08-07,M,Drawing,2023-08-05,18,Medium,Group,High,9
+Michael,Parker,2023-02-22,M,Building Blocks,2023-11-19,16,Low,Group,High,1
+Erin,Nielsen,2021-10-28,M,Painting,2024-04-30,24,High,Individual,High,8
+Brandon,Myers,2023-02-13,M,Building Blocks,2024-05-11,9,Low,Group,High,2
+Rebecca,Johnson,2021-09-27,M,Dance,2023-12-13,19,Medium,Individual,High,4
+Erica,Jennings,2022-10-24,M,Drawing,2023-07-19,15,Low,Individual,Low,6
+Michele,Morgan,2021-07-03,M,Dance,2024-01-09,19,Medium,Group,Medium,5
+Gary,Gardner,2022-03-09,M,Dance,2023-12-25,28,Medium,Group,Low,10
+Miranda,Martin,2021-08-17,M,Drawing,2023-10-19,20,High,Individual,Low,4
+Gina,Davis,2021-08-05,F,Dance,2024-01-11,12,Low,Group,High,1
+Crystal,Sharp,2022-08-11,F,Story Time,2023-10-29,15,Medium,Individual,Low,7
+Julia,Curtis,2021-11-10,F,Outdoor Play,2023-07-29,23,Low,Individual,Medium,1
+Julia,Mccullough,2022-10-02,F,Outdoor Play,2023-10-15,10,Medium,Group,Medium,7
+Randy,Hebert,2021-05-22,M,Painting,2023-11-27,6,Low,Individual,Medium,3
+Katherine,Beck,2021-09-27,F,Story Time,2023-06-28,20,Medium,Group,High,9
